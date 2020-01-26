@@ -5,3 +5,5 @@ b = np.array([[15,5,9],[69,45,3],[9,7,7]])
 print(a)
 print(b)
 print(a*b)
+
+print(a[1,-2]) # output will be 5 
