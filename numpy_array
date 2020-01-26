@@ -1,0 +1,6 @@
+import numpy as np
+
+a = np.array([1,22,6])
+b = np.array([2,5,6])
+
+print(a*b) #in list we cannot use two list multiple means (a*b) does not work
