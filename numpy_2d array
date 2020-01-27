@@ -11,3 +11,7 @@ print(a[1,-2]) # output will be 5
 print(np.zeros((2,3,2)))# create a matrix
 
 print(np.full((2,3),99))# output [[99 99 99] [99 99 99]]
+
+print(np.random.randint(0,7,size=(3,3)) #take random number 7 means the number between 0 to 7
+
+print(np.identity(5)) # print identity matrix
