@@ -7,3 +7,5 @@ print(b)
 print(a*b)
 
 print(a[1,-2]) # output will be 5 
+
+print(np.zeros((2,3,2)))# create a matrix
